@@ -10,7 +10,7 @@ My name is Oliver North, but most people call me Ollie. I love football and play
 
 
 ## contact
-- on21606[at]essex[dot]ac[dot]uk
+- on21606@essex.ac.uk
 
 <br>
 
@@ -26,18 +26,8 @@ My name is Oliver North, but most people call me Ollie. I love football and play
 <br>
 
 ## work experience
-### research assistant positions
-#### StoryLab Research Institute
-
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
-
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
-
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
-
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
+### Sales Associate At Ralph Lauren 
+Currently i work for Ralph Lauren as a sales associate in the Braintree branch, i have been working there for 2 years and have gained higher levels of responsibilty under my managers. I am often  tasked with maintaining store standards and to ensure the proper running of departments or tills. With this role i have gained a much higher level of attention to detail and greater levels of organization to work with my colleagues.
 
 <br>
 
