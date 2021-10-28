@@ -14,3 +14,4 @@ wk4
 - set up github pages and attempt to set up website
 - look into use of plugins
 - look at square online
+- or webflow
