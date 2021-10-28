@@ -15,3 +15,4 @@ wk4
 - look into use of plugins
 - look at square online
 - or webflow
+- selcet starter plan 
