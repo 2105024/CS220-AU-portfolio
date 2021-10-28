@@ -10,3 +10,6 @@ wk3
 - work on log and to do list
 - start my own visitor and resident maps
 - begin the essay on digital identity (make use of digigtal identity file)
+wk4
+- set up github pages and attempt to set up website
+- - look into use of plugins
