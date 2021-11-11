@@ -15,17 +15,20 @@
 wk3
 - work on log and to do list
 - start my own visitor and resident maps
+
 wk4
 - set up github pages and attempt to set up website
 - look into use of plugins
 - look at square online
 - or webflow
 - selcet starter plan 
+
 wk5
 - begin essay plan 
 - add more depth to the website 
 - complete my qualifications table and work description 
 - explore previous digital identities
+
 wk6
 - add hyperlink to my website
 - ensure todo list and logs are updated
