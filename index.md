@@ -16,7 +16,7 @@ My name is Oliver North, but most people call me Ollie. I love football and play
 
 ## educations
 
-| date | degree | institute |
+| date | qualification| institute |
 --- | --- | ---
 |ongoing|**BA** in global studies with politics |University of Essex|
 |2021|**A LEVEL** in global politics, Spanish, Geography|Anglo European School|
