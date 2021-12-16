@@ -63,6 +63,7 @@ wk 10
 wk 11
 - focus further work on essay ie proof reading and cleaning up the writing
 - aim to work further on the website
+- work on overview
 
 wk 12
 -complete base work of essay
