@@ -15,7 +15,9 @@
 - 15/11/2021 essay writing begins
 - 20/11/2021 website outline completed with in depth insight to my digital identity 
 - 01/12/2021 website base completed, needing to be updated and photos to be included
-- 
+- 07/12/2021 essay half completed
+- 12/12/2021 essay 70% finished
+
 <br>
 
 ## TODO
@@ -55,7 +57,20 @@ wk 9
 - look into linking social media to the website to make it more fluid
 
 wk 10 
-- aim to complete essay
-- add images and hyperlinks to essay 
-- 
+- work on essay reach 50% completeion 
+- add images of v and r maps to essay 
+
+wk 11
+- focus further work on essay ie proof reading and cleaning up the writing
+- aim to work further on the website
+
+wk 12
+-complete base work of essay
+-add the last touches to the website
+
+wk 13
+-refine essay
+-finish repository
+
+
 
