@@ -17,61 +17,12 @@
 - 01/12/2021 website base completed, needing to be updated and photos to be included
 - 07/12/2021 essay half completed
 - 12/12/2021 essay 70% finished
+- 20/12/2021 essay finished
+- 27/12/2021 website completed
 
 <br>
 
-## TODO
-wk 3
-- work on log and to do list
-- start my own visitor and resident maps
 
-wk4
-- set up github pages and attempt to set up website
-- look into use of plugins
-- look at square online
-- or webflow
-- selcet starter plan 
-
-wk 5
-- begin essay plan 
-- add more depth to the website 
-- complete my qualifications table and work description 
-- explore previous digital identities
-
-wk 6
-- add hyperlink to my website
-- ensure todo list and logs are updated
-- gather further resources for essay 
-
-wk 7 
-- set up new ebsite through workflow
-- complete preliminary outline of website
-- continue essay
-
-wk 8 reading week
-- gather more resources for the essay
-- create new v and r map
-
-wk 9
-- add more depth to the website
-- look into linking social media to the website to make it more fluid
-
-wk 10 
-- work on essay reach 50% completeion 
-- add images of v and r maps to essay 
-
-wk 11
-- focus further work on essay ie proof reading and cleaning up the writing
-- aim to work further on the website
-- work on overview
-
-wk 12
--complete base work of essay
--add the last touches to the website
-
-wk 13
--refine essay
--finish repository
 
 
 
